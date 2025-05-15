@@ -4,7 +4,7 @@
 
 <h3 align="left">Academic Education:</h3>
 <ul align="left">
-  <li>Graduating in Bachelor of Biological Sciences with an emphasis on Biotechnology and Bioinformatics <strong>(UFPE)</strong></li>
+  <li>Completed Bachelor of Science in Biological Sciences with an emphasis on Biotechnology and Bioinformatics <strong>(UFPE)</strong></li>
   <li>Graduating in Systems Analysis and Development <strong>(UNINASSAU)</strong></li>
   <li>Data Science Student <strong>(EBAC)</strong></li>
 </ul>
