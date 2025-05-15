@@ -1,6 +1,6 @@
 ![data](https://github.com/vinigenes/vinigenes/assets/159292876/5acea1d4-de75-4f00-86eb-11318de8c823)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=000000&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Vinícius;I'm+25+years+old;I'm+a+Data+Scientist;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=800020&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Vinícius;I'm+25+years+old;I'm+a+Data+Scientist;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
 
 <h3 align="left">Academic Education:</h3>
 <ul align="left">
