@@ -1,6 +1,6 @@
 ![data](https://github.com/vinigenes/vinigenes/assets/159292876/5acea1d4-de75-4f00-86eb-11318de8c823)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=800020&center=true&vCenter=true&width=1000&lines=Hello%2C+I'm+Vin%C3%ADcius;Data+Scientist+from+Brazil;Machine+Learning+%7C+AI+%7C+Bioinformatics)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=800020&center=true&vCenter=true&width=1000&lines=Hello%2C+I'm+Vin%C3%ADcius;Data+Scientist+from+Brazil;Machine+Learning+%7C+AI)](https://git.io/typing-svg)
 
 ---
 
