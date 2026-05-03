@@ -6,9 +6,9 @@
 
 ### Academic Education:
 
-- Bachelor of Science in Biological Sciences (Biotechnology & Bioinformatics) - **Federal University of Pernambuco (UFPE)**
-- Master of Science in Computer Science - **Informatics Center (CIN) / UFPE**
-- Data Science Program - **EBAC**
+- Master of Science in Computer Science (in progress) - **Informatics Center (CIN), Federal University of Pernambuco (UFPE)**
+- Data Science Program - **EBAC (Brazilian School of Computing and Data Science)**
+- Bachelor of Science in Biological Sciences (with emphasis in Biotechnology and Bioinformatics) - **Federal University of Pernambuco (UFPE)**
 
 ---
 
