@@ -38,6 +38,16 @@
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vinigenes&layout=compact&theme=dark)
 
 ---
+### Projects:
+
+#### Data Science Portfolio (EBAC Course)
+- Complete repository covering the entire Data Science training program at EBAC.
+- Includes data analysis, machine learning models, data preprocessing, and real-world case studies.
+- Focus on Python, Pandas, NumPy, Scikit-Learn, and Machine Learning workflows.
+
+Repository: https://github.com/vinigenes/data-science-projects-ebac
+
+---
 
 ### Contact:
 
