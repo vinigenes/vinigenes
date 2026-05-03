@@ -38,6 +38,7 @@
 ---
 
 ### Contact:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vinicius-souza-data)
+### Contact:
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-souza-data)
 [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinibr300@gmail.com)
